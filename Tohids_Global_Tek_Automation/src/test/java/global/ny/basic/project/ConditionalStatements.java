@@ -1,7 +1,8 @@
-	package global.ny.login;
-	
-	public class VarifyTheValue {
-		public static void main(String[] args) {
+package global.ny.basic.project;
+
+public class ConditionalStatements {
+
+	public static void main(String[] args) {
 		
 		int age = 17;
 		
@@ -15,6 +16,5 @@
 		
 		
 	
-		}
-	 }
-	
+	}
+}

@@ -1,7 +1,7 @@
-	package global.ny.login;
+	package global.ny.basic.project;
+	
 	
 	public class VarriableAccess {
-		
 		static String Name;
 		
 		int age;
@@ -33,10 +33,12 @@
 			
 			obj.Student1();
 			System.out.println(obj.Student2());
-			
 			System.out.println(obj.Fees(1000));
+			System.out.println("Tohid");
 		}
 		
 		
 	
 	}
+	
+	

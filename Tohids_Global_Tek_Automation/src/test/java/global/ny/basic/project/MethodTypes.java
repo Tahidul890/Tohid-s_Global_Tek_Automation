@@ -1,6 +1,8 @@
-	package global.ny.login;
-	
-	public class MethodTypes {
+package global.ny.basic.project;
+
+
+public class MethodTypes {
+		
 		void Name(){
 			System.out.println("I am a QA Automation Engineer");
 		}
